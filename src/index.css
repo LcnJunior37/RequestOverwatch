@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color:#f89d19;
+  background-color: #000;
+}
+.imgs{
+  width: 50px;
+
+}
+.info{
+  border: 2px solid #ff0;
+	border-radius: 12px;
+  margin: 100px auto;
+  width: 500px;
+}
